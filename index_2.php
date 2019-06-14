@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
-	<title>Game Of Live</title>
+	<title>Game of Life</title>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 </head>
 
